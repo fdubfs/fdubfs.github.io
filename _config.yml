@@ -11,7 +11,7 @@ github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "落物无相藏后土，春犹有声谢皇天"
+sidebar-about-description: "欢迎南极以北的相声爱好者！"
 sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
