@@ -102,10 +102,11 @@ friends: [
         title: "BiliBili@复旦大学北方社",
         href: "https://space.bilibili.com/251416948/"
     },{
-        title:"微博@复旦北方社",
-        href:"https://weibo.com/u/5721578837"
+
+        title: "微博@复旦北方社",
+        href: "https://weibo.com/u/5721578837"
     },{
-        title:"小游戏：合成大狗神",
-        href:"https://jiang20nian.github.io/GreatContinent/"
+        title: "小游戏：合成大狗神",
+        href: "https://jiang20nian.github.io/GreatContinent/"
     }
 ]
